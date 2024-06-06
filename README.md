@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **karthikmg36@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-491lY0XWRtghzQaxaQaI2ySHxoKavjJ/view?usp=drivesdk">Click to view resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-491lY0XWRtghzQaxaQaI2ySHxoKavjJ/view?usp=drivesdk" target="_blank">Click to view resume</a>
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
