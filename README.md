@@ -1,8 +1,12 @@
-<div id="header" align="center">
+<div id="header" align="center" background="black">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate frontend developer.</h3>
+
+- 📫 How to reach me **karthikmg36@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-491lY0XWRtghzQaxaQaI2ySHxoKavjJ/view?usp=drivesdk](https://drive.google.com/file/d/1-491lY0XWRtghzQaxaQaI2ySHxoKavjJ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikmg36&show_icons=true&locale=en&layout=compact" alt="karthikmg36" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikmg36&show_icons=true&locale=en" alt="karthikmg36" /></p>
-
